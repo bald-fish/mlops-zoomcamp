@@ -1,0 +1,6 @@
+# Ignore of common data, virtual evniornment folders...
+venv*
+data*
+.ipynb_*
+models*
+*.db
