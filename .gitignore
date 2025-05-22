@@ -4,3 +4,4 @@ data*
 .ipynb_*
 models*
 *.db
+mlruns
